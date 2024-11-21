@@ -1,2 +1,2 @@
-# HCMUT-K23
+# HCMUT-232
 Assignment of Discrete Mathematics
